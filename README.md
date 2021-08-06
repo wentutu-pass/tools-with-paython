@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 # comment
 
-### need to add mew package to requirements.txt
+### need to add new package to requirements.txt
 ```shell
 pip freeze > requirements.txt
 ```
